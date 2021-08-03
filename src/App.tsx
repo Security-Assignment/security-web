@@ -10,7 +10,7 @@ function App() {
       <h1>Security Web Page</h1>
       <Divider></Divider>
       <Image src="https://sectigostore.com/blog/wp-content/uploads/2020/06/cyber-security-tips-for-smbs.jpg" preview={false}></Image>
-      <div>Empty</div>
+      <div>Empty Page</div>
     </div>
   );
 }
